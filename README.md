@@ -1,2 +1,4 @@
 # st2195_assignment_1
-###This is my first assignment
+##Practice assignment 1
+
+####Printing integers between 1 and 10
